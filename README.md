@@ -89,7 +89,7 @@ The Intel contributors to this project, sorted by last name, are
   - [Flavio Bergamaschi](https://www.linkedin.com/in/flavio-bergamaschi-1634141/)
   - [Fabian Boemer](https://www.linkedin.com/in/fabian-boemer-5a40a9102/)
   - [Jeremy Bottleson](https://www.linkedin.com/in/jeremy-bottleson-38852a7/)
-  - [Jack Crawford](https://www.linkedin.com/in/jacklhcrawford/)
+  - [Jack Crawford](https://www.linkedin.com/in/jacklhcrawford/) (co-lead)
   - [Fillipe D.M. de Souza](https://www.linkedin.com/in/fillipe-d-m-de-souza-a8281820/)
   - [Jingyi Jin](https://www.linkedin.com/in/jingyi-jin-655735/)
   - [Sejun Kim](https://www.linkedin.com/in/sejun-kim-2b1b4866/) (lead)

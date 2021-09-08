@@ -43,7 +43,6 @@ python >= 3.5
 virtualenv
 ```
 
-
 Dependencies required per library include:
 ```
 autoconf (PALISADE)
